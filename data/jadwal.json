@@ -1,0 +1,39 @@
+{
+  "sekolah": "Jadwal Pelajaran TA 2026/2027 - RPL",
+  "hari": [
+    { "nama": "Senin", "daftarMapel": [
+      { "nama": "PWK", "jamKe": "1-2", "jamMulai": "06:45", "jamSelesai": "08:05", "guru": "Noviyanti, M.Pd." },
+      { "nama": "KK 1 RPL", "jamKe": "3-4", "jamMulai": "08:05", "jamSelesai": "09:25", "guru": "Joni Patlas Slamet L, A.Md." },
+      { "nama": "KK 1 RPL", "jamKe": "5-7", "jamMulai": "09:45", "jamSelesai": "11:45", "guru": "Joni Patlas Slamet L, A.Md." },
+      { "nama": "KK 1 RPL", "jamKe": "8", "jamMulai": "12:45", "jamSelesai": "13:25", "guru": "Joni Patlas Slamet L, A.Md." },
+      { "nama": "Pendidikan Pancasila", "jamKe": "9-10", "jamMulai": "13:25", "jamSelesai": "14:45", "guru": "Eva Nur Ramadani, S.IP." }
+    ]},
+    { "nama": "Selasa", "daftarMapel": [
+      { "nama": "Bahasa Indonesia", "jamKe": "1-3", "jamMulai": "06:45", "jamSelesai": "08:45", "guru": "Dian Prinawati, S.Pd." },
+      { "nama": "PJOK", "jamKe": "4", "jamMulai": "08:45", "jamSelesai": "09:25", "guru": "Dewan Firman Sulaeman, S.Pd." },
+      { "nama": "PJOK", "jamKe": "5", "jamMulai": "09:45", "jamSelesai": "10:25", "guru": "Dewan Firman Sulaeman, S.Pd." },
+      { "nama": "PKK", "jamKe": "6-7", "jamMulai": "10:25", "jamSelesai": "11:45", "guru": "Rini Sulistiowati, S.E." },
+      { "nama": "PKK", "jamKe": "8-10", "jamMulai": "12:45", "jamSelesai": "14:45", "guru": "Rini Sulistiowati, S.E." }
+    ]},
+    { "nama": "Rabu", "daftarMapel": [
+      { "nama": "Pendidikan Agama dan Budi Pekerti", "jamKe": "1-3", "jamMulai": "06:45", "jamSelesai": "08:45", "guru": "Elis Nurhayati, S.Ag." },
+      { "nama": "Bahasa Sunda", "jamKe": "4", "jamMulai": "08:45", "jamSelesai": "09:25", "guru": "Heri Susanto, S.Pd." },
+      { "nama": "Bahasa Sunda", "jamKe": "5", "jamMulai": "09:45", "jamSelesai": "10:25", "guru": "Heri Susanto, S.Pd." },
+      { "nama": "KK 2 RPL", "jamKe": "6-7", "jamMulai": "10:25", "jamSelesai": "11:45", "guru": "Mahesa Perinando, S.Kom." },
+      { "nama": "KK 2 RPL", "jamKe": "8-11", "jamMulai": "12:45", "jamSelesai": "15:25", "guru": "Mahesa Perinando, S.Kom." }
+    ]},
+    { "nama": "Kamis", "daftarMapel": [
+      { "nama": "Bahasa Inggris", "jamKe": "1-4", "jamMulai": "06:45", "jamSelesai": "09:25", "guru": "Noviyanti, M.Pd." },
+      { "nama": "Bahasa Jepang", "jamKe": "5-6", "jamMulai": "09:45", "jamSelesai": "11:05", "guru": "Dwi Vidyarestuti, S.S." },
+      { "nama": "Matematika", "jamKe": "7", "jamMulai": "11:05", "jamSelesai": "11:45", "guru": "Upi Lidinillah, S.Pd., Gr." },
+      { "nama": "Matematika", "jamKe": "8-9", "jamMulai": "12:45", "jamSelesai": "14:05", "guru": "Upi Lidinillah, S.Pd., Gr." },
+      { "nama": "Sejarah", "jamKe": "10-11", "jamMulai": "14:05", "jamSelesai": "15:25", "guru": "Ine Nova Ayu, S.Pd." }
+    ]},
+    { "nama": "Jumat", "daftarMapel": [
+      { "nama": "KK 3 RPL", "jamKe": "1-4", "jamMulai": "06:45", "jamSelesai": "09:25", "guru": "Mahesa Perinando, S.Kom." },
+      { "nama": "KK 3 RPL", "jamKe": "5-6", "jamMulai": "09:45", "jamSelesai": "11:05", "guru": "Mahesa Perinando, S.Kom." },
+      { "nama": "MPP", "jamKe": "7", "jamMulai": "11:05", "jamSelesai": "11:45", "guru": "Yudi Kurniadi, S.Kom." },
+      { "nama": "MPP", "jamKe": "9-11", "jamMulai": "13:25", "jamSelesai": "15:25", "guru": "Yudi Kurniadi, S.Kom." }
+    ]}
+  ]
+}
